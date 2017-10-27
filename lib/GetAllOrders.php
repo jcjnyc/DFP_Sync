@@ -88,4 +88,4 @@ class GetAllOrders {
   }
 }
 
-GetAllOrders::main();
+

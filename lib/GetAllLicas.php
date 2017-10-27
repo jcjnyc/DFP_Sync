@@ -102,4 +102,4 @@ class GetAllLicas {
   }
 }
 
-GetAllLicas::main();
+//GetAllLicas::main();
